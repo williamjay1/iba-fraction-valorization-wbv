@@ -23,7 +23,8 @@ not denote extra samples or later experimental campaigns.
 
 ## Units, functions and sign conventions
 
-**German case.** One source functional unit (FU) is one Mg source ash. Medium
+**German case.** One source functional unit (FU) is one Mg valorized IBA in the
+published German model. Medium
 and fine clinker-directed fractions contain 170.57 and 237.36 kg/FU, respectively;
 the combined candidate stream is 407.93 kg/FU. Direct credit densities are
 positive avoided-calcination credits per kg of the corresponding stream.
@@ -51,7 +52,7 @@ identified calcite/vaterite already contain carbonate and provide the phase
 correction. All 25 fraction records are retained within five plant composites.
 Displayed phase precision is handled separately from left-censoring and
 unquantified phases. Display-rounding sensitivity is not analytical uncertainty.
-The 100 mg/kg chloride comparator is source-specific and not a kiln criterion.
+The 100 mg/L chloride comparator is source-specific and not a kiln criterion.
 
 **Spanish case.** Approximate feed shares are 32%, 18%, 15%, 21% and 14%. Fractions
 were ground below 90 μm for mortars with 25 wt.% binder replacement. The 28-day

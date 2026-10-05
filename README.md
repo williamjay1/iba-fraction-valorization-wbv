@@ -34,7 +34,8 @@ check returns a nonzero exit code.
 Outputs and logs go to a new `temp/reproduction_*` directory. An explicit empty
 directory can be selected with `--workdir PATH`; existing results are never
 deleted. The supported exact-byte environment is the recorded Windows/Python
-configuration. Other platforms can run the algorithms, but cross-platform
+configuration. The GitHub workflow uses the available CPython 3.12.10 Windows
+build with the same pinned numerical packages. Other platforms can run the algorithms, but cross-platform
 byte equality has not been verified. The GitHub workflow runs the same numerical
 command and retains its reports.
 
