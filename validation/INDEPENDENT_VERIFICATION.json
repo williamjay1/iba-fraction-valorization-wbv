@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "checks": [
+    "German disjoint mass closure",
+    "German Table 2 masses, shares, credits, densities, source totals and margins against outputs and independent identities",
+    "All 3,003 mass-only bounds against 17 feasible compositions each; independent bisection roots",
+    "Marginal fraction-priority reversal identity",
+    "All 30,603 deterministic German grid cells",
+    "Every Swedish Table S5 entry; all 12 source processing increments",
+    "Independent within-pair changes, lineage/denominator counts, common-panel contrasts and Table S3 salts",
+    "All-category sign counts and economic reference/unit identities",
+    "All 32 lineage-stratified records from endpoint magnitudes and every Table S4 denominator/fraction",
+    "Economic break-even via perturbed costs/revenues/reference and all 125 grid outcomes",
+    "All 12 worked envelope decisions and 12 information-resolution equations",
+    "Fixed supplementary worked-decision and economic-threshold tables",
+    "All 336 Monte Carlo marginal probabilities against exact log-ratio distributions; probability-bound ordering",
+    "25 independent Italian key/stoichiometry joins, all 875 censor/unit cells, Table 3 and leave-one-plant summaries",
+    "Spanish raw/formulated release matrices, 168 endpoints, Table 4, mass intersections, all 36 margin cases and conditional test-order counts",
+    "All 12 hypothetical German regret intervals independently checked; no Italian/Spanish qualification transplanted"
+  ],
+  "counts": {
+    "reference_tables_available": 9,
+    "mass_only_grid_cells": 3003,
+    "German_conditional_grid_cells": 30603,
+    "endpoint_magnitude_records": 712,
+    "lineage_stratified_records": 32,
+    "economic_grid_cells": 125,
+    "worked_decisions": 12,
+    "Italian_linked_records": 25,
+    "Italian_censor_audit_cells": 875,
+    "Spanish_formulations": 6,
+    "Spanish_endpoint_screens": 168
+  },
+  "analytical_MC_comparisons": 336,
+  "maximum_absolute_MC_probability_error": 0.003163679548183085,
+  "reference_tables_sha256": "b8ed2b7577703bcbeea0811eda79848673140e7e96ba8663d84026d96949d785",
+  "independent_check_scope": "Production scripts are not imported. Arithmetic is checked using separately implemented feasible-composition searches, bisection, source-cell joins, endpoint loss calculations and the exact normal distribution of log ratios. Fixed reference tables are read independently of generated outputs. Input/output hashes are checked separately by the public runner.",
+  "not_validated": [
+    "source prospective industrial performance",
+    "actual outlet qualification or rejection rates",
+    "full counterfactual residual inventory",
+    "EU-average performance",
+    "legal approval",
+    "editorial acceptance"
+  ]
+}

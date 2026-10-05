@@ -1,0 +1,12 @@
+source_sheet,source_cell,source_product,mass_kg_per_source_FU,reported_destination
+Operating costs-revenue,C5,Magnetic Fe < 20%,119.48512669600002,landfill/ copper ore /landfill
+Operating costs-revenue,C6,Magnetic Fe > 40%,25.232121303999993,iron ore
+Operating costs-revenue,C7,Copper concentrate,3.094357274761048,Cu-Matte
+Operating costs-revenue,C12,Al Oxide / SiO₂,34.50742672523896,Aluminum slag
+Operating costs-revenue,C14,Minerals for concrete coars,51.65679200000002,gravel in concrete
+Operating costs-revenue,C15,Minerals for concrete fine,71.457176,see grouped destination
+Operating costs-revenue,C16,Minerals for clinker medium,170.57,raw meal 
+Operating costs-revenue,C17,Minerals for clinker fine,237.36,calcination in cement production
+Operating costs-revenue,C18,Magnetic Fe > 40% from medium fraction,36.879999999999995,iron ore
+Operating costs-revenue,C19,Magnetic Fe < 20% from medium fraction,229.1169999999999,copper ore
+Operating costs-revenue,C20,Magnetic Fe > 40% from fine fraction,20.639999999999997,iron ore

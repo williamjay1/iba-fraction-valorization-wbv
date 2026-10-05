@@ -1,0 +1,1243 @@
+{
+  "verification_utc": "2026-10-05",
+  "official_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0956053X26004320-mmc1.xlsx",
+  "official_new_sha256": "a8aeb1d6bfade6921bd5761eff294a8441602df7a916a535a957a846306734a9",
+  "historical_source_sha256_recorded": "a8aeb1d6bfade6921bd5761eff294a8441602df7a916a535a957a846306734a9",
+  "matches_historical_source_hash": true,
+  "cache_sha256": "0167af8da74ab602aae8bf93be524a052c268aed1138107952cd6786f1356de8",
+  "workbook_sheets": [
+    "Content",
+    "Operating hours",
+    "Mass balance",
+    "Overview",
+    "Model-Parameter",
+    "A_4_0_milling",
+    "B_treatment fine fraction",
+    "C_treatment medium fraction",
+    "D_treatment coars fraction",
+    "E_density separation",
+    "Operating costs-revenue",
+    "Investments",
+    "Metall prices",
+    "CO2 balance raw meal",
+    "OpenLCA",
+    "Results allocation",
+    "Results substitution",
+    "plant specifications"
+  ],
+  "cache_cell_count": 173,
+  "all_cache_cells_equal_official_new_workbook": true,
+  "cell_comparisons": [
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "C23",
+      "cached_value": 0.04,
+      "new_source_value": 0.04,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "C24",
+      "cached_value": 0.07,
+      "new_source_value": 0.07,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "C29",
+      "cached_value": 0.04,
+      "new_source_value": 0.04,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "C30",
+      "cached_value": 0.009,
+      "new_source_value": 0.009,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "E42",
+      "cached_value": 170.57,
+      "new_source_value": 170.57,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "E43",
+      "cached_value": 237.36,
+      "new_source_value": 237.36,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "J33",
+      "cached_value": 0.0138,
+      "new_source_value": 0.0138,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "J34",
+      "cached_value": 0.076,
+      "new_source_value": 0.076,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "K33",
+      "cached_value": 0.0178,
+      "new_source_value": 0.0178,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "K34",
+      "cached_value": 0.1065,
+      "new_source_value": 0.1065,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "L13",
+      "cached_value": 0.78,
+      "new_source_value": 0.78,
+      "equal": true
+    },
+    {
+      "sheet": "CO2 balance raw meal",
+      "cell": "L8",
+      "cached_value": 439.7128894990254,
+      "new_source_value": 439.7128894990254,
+      "equal": true
+    },
+    {
+      "sheet": "Model-Parameter",
+      "cell": "E12",
+      "cached_value": 19.947,
+      "new_source_value": 19.947,
+      "equal": true
+    },
+    {
+      "sheet": "Model-Parameter",
+      "cell": "E7",
+      "cached_value": 6000,
+      "new_source_value": 6000,
+      "equal": true
+    },
+    {
+      "sheet": "Model-Parameter",
+      "cell": "E8",
+      "cached_value": 300000,
+      "new_source_value": 300000,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B12",
+      "cached_value": "Al Oxide / SiO\u2082",
+      "new_source_value": "Al Oxide / SiO\u2082",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B14",
+      "cached_value": "Minerals for concrete coars",
+      "new_source_value": "Minerals for concrete coars",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B15",
+      "cached_value": "Minerals for concrete fine",
+      "new_source_value": "Minerals for concrete fine",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B16",
+      "cached_value": "Minerals for clinker medium",
+      "new_source_value": "Minerals for clinker medium",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B17",
+      "cached_value": "Minerals for clinker fine",
+      "new_source_value": "Minerals for clinker fine",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B18",
+      "cached_value": "Magnetic Fe > 40% from medium fraction",
+      "new_source_value": "Magnetic Fe > 40% from medium fraction",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B19",
+      "cached_value": "Magnetic Fe < 20% from medium fraction",
+      "new_source_value": "Magnetic Fe < 20% from medium fraction",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B20",
+      "cached_value": "Magnetic Fe > 40% from fine fraction",
+      "new_source_value": "Magnetic Fe > 40% from fine fraction",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B5",
+      "cached_value": "Magnetic Fe < 20%",
+      "new_source_value": "Magnetic Fe < 20%",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B6",
+      "cached_value": "Magnetic Fe > 40%",
+      "new_source_value": "Magnetic Fe > 40%",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "B7",
+      "cached_value": "Copper concentrate",
+      "new_source_value": "Copper concentrate",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C12",
+      "cached_value": 34.50742672523896,
+      "new_source_value": 34.50742672523896,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C14",
+      "cached_value": 51.65679200000002,
+      "new_source_value": 51.65679200000002,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C15",
+      "cached_value": 71.457176,
+      "new_source_value": 71.457176,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C16",
+      "cached_value": 170.57,
+      "new_source_value": 170.57,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C17",
+      "cached_value": 237.36,
+      "new_source_value": 237.36,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C18",
+      "cached_value": 36.879999999999995,
+      "new_source_value": 36.879999999999995,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C19",
+      "cached_value": 229.1169999999999,
+      "new_source_value": 229.1169999999999,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C20",
+      "cached_value": 20.639999999999997,
+      "new_source_value": 20.639999999999997,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C5",
+      "cached_value": 119.48512669600002,
+      "new_source_value": 119.48512669600002,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C6",
+      "cached_value": 25.232121303999993,
+      "new_source_value": 25.232121303999993,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "C7",
+      "cached_value": 3.094357274761048,
+      "new_source_value": 3.094357274761048,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H12",
+      "cached_value": "Aluminum slag",
+      "new_source_value": "Aluminum slag",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H14",
+      "cached_value": "gravel in concrete",
+      "new_source_value": "gravel in concrete",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H15",
+      "cached_value": null,
+      "new_source_value": null,
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H16",
+      "cached_value": "raw meal ",
+      "new_source_value": "raw meal ",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H17",
+      "cached_value": "calcination in cement production",
+      "new_source_value": "calcination in cement production",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H18",
+      "cached_value": "iron ore",
+      "new_source_value": "iron ore",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H19",
+      "cached_value": "copper ore",
+      "new_source_value": "copper ore",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H20",
+      "cached_value": "iron ore",
+      "new_source_value": "iron ore",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H5",
+      "cached_value": "landfill/ copper ore /landfill",
+      "new_source_value": "landfill/ copper ore /landfill",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H6",
+      "cached_value": "iron ore",
+      "new_source_value": "iron ore",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "H7",
+      "cached_value": "Cu-Matte",
+      "new_source_value": "Cu-Matte",
+      "equal": true
+    },
+    {
+      "sheet": "Operating costs-revenue",
+      "cell": "R19",
+      "cached_value": 19.462130666666667,
+      "new_source_value": 19.462130666666667,
+      "equal": true
+    },
+    {
+      "sheet": "Overview",
+      "cell": "L24",
+      "cached_value": 28.223718078294024,
+      "new_source_value": 28.223718078294024,
+      "equal": true
+    },
+    {
+      "sheet": "Overview",
+      "cell": "L25",
+      "cached_value": 8.944842931190149,
+      "new_source_value": 8.944842931190149,
+      "equal": true
+    },
+    {
+      "sheet": "Overview",
+      "cell": "L26",
+      "cached_value": -19.278875147103875,
+      "new_source_value": -19.278875147103875,
+      "equal": true
+    },
+    {
+      "sheet": "Overview",
+      "cell": "L27",
+      "cached_value": -25,
+      "new_source_value": -25,
+      "equal": true
+    },
+    {
+      "sheet": "Overview",
+      "cell": "L28",
+      "cached_value": 5.721124852896125,
+      "new_source_value": 5.721124852896125,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS10",
+      "cached_value": "eutrophication: freshwater - fraction of nutrients reaching freshwater end compartment (P)",
+      "new_source_value": "eutrophication: freshwater - fraction of nutrients reaching freshwater end compartment (P)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS11",
+      "cached_value": "eutrophication: marine - fraction of nutrients reaching marine end compartment (N)",
+      "new_source_value": "eutrophication: marine - fraction of nutrients reaching marine end compartment (N)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS12",
+      "cached_value": "eutrophication: terrestrial - accumulated exceedance (AE)",
+      "new_source_value": "eutrophication: terrestrial - accumulated exceedance (AE)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS13",
+      "cached_value": "human toxicity: carcinogenic - comparative toxic unit for human (CTUh)",
+      "new_source_value": "human toxicity: carcinogenic - comparative toxic unit for human (CTUh)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS14",
+      "cached_value": "human toxicity: non-carcinogenic - comparative toxic unit for human (CTUh)",
+      "new_source_value": "human toxicity: non-carcinogenic - comparative toxic unit for human (CTUh)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS15",
+      "cached_value": "ionising radiation: human health - human exposure efficiency relative to u235",
+      "new_source_value": "ionising radiation: human health - human exposure efficiency relative to u235",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS16",
+      "cached_value": "land use - soil quality index",
+      "new_source_value": "land use - soil quality index",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS17",
+      "cached_value": "material resources: metals/minerals - abiotic depletion potential (ADP): elements (ultimate reserves)",
+      "new_source_value": "material resources: metals/minerals - abiotic depletion potential (ADP): elements (ultimate reserves)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS18",
+      "cached_value": "ozone depletion - ozone depletion potential (ODP)",
+      "new_source_value": "ozone depletion - ozone depletion potential (ODP)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS19",
+      "cached_value": "particulate matter formation - impact on human health",
+      "new_source_value": "particulate matter formation - impact on human health",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS20",
+      "cached_value": "photochemical oxidant formation: human health - tropospheric ozone concentration increase",
+      "new_source_value": "photochemical oxidant formation: human health - tropospheric ozone concentration increase",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS21",
+      "cached_value": "water use - user deprivation potential (deprivation-weighted water consumption)",
+      "new_source_value": "water use - user deprivation potential (deprivation-weighted water consumption)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS6",
+      "cached_value": "acidification - accumulated exceedance (AE)",
+      "new_source_value": "acidification - accumulated exceedance (AE)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS7",
+      "cached_value": "climate change - global warming potential (GWP100)",
+      "new_source_value": "climate change - global warming potential (GWP100)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS8",
+      "cached_value": "ecotoxicity: freshwater - comparative toxic unit for ecosystems (CTUe)",
+      "new_source_value": "ecotoxicity: freshwater - comparative toxic unit for ecosystems (CTUe)",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AS9",
+      "cached_value": "energy resources: non-renewable - abiotic depletion potential (ADP): fossil fuels",
+      "new_source_value": "energy resources: non-renewable - abiotic depletion potential (ADP): fossil fuels",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT10",
+      "cached_value": "kg P-\u00c4q.",
+      "new_source_value": "kg P-\u00c4q.",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT11",
+      "cached_value": "kg N-\u00c4q",
+      "new_source_value": "kg N-\u00c4q",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT12",
+      "cached_value": "mol N-\u00c4q.",
+      "new_source_value": "mol N-\u00c4q.",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT13",
+      "cached_value": "CTUh",
+      "new_source_value": "CTUh",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT14",
+      "cached_value": "CTUh",
+      "new_source_value": "CTUh",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT15",
+      "cached_value": "kBq U235-\u00c4q.",
+      "new_source_value": "kBq U235-\u00c4q.",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT16",
+      "cached_value": "Dimensionslos",
+      "new_source_value": "Dimensionslos",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT17",
+      "cached_value": "kg Sb-\u00c4q.",
+      "new_source_value": "kg Sb-\u00c4q.",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT18",
+      "cached_value": "kg CFC-11-\u00c4q.",
+      "new_source_value": "kg CFC-11-\u00c4q.",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT19",
+      "cached_value": "Krankheitsinzidenz",
+      "new_source_value": "Krankheitsinzidenz",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT20",
+      "cached_value": "kg NMVOC-\u00c4q.",
+      "new_source_value": "kg NMVOC-\u00c4q.",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT21",
+      "cached_value": "m3 Welt \u00c4q. entzogen",
+      "new_source_value": "m3 Welt \u00c4q. entzogen",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT6",
+      "cached_value": "mol H+-\u00c4q.",
+      "new_source_value": "mol H+-\u00c4q.",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT7",
+      "cached_value": "kg CO2-\u00c4q.",
+      "new_source_value": "kg CO2-\u00c4q.",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT8",
+      "cached_value": "CTUe",
+      "new_source_value": "CTUe",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AT9",
+      "cached_value": "MJ",
+      "new_source_value": "MJ",
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU10",
+      "cached_value": -0.036856377161657,
+      "new_source_value": -0.036856377161657,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU11",
+      "cached_value": -0.038341144484383,
+      "new_source_value": -0.038341144484383,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU12",
+      "cached_value": -0.572565186472455,
+      "new_source_value": -0.572565186472455,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU13",
+      "cached_value": -1.05612606923837e-07,
+      "new_source_value": -1.05612606923837e-07,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU14",
+      "cached_value": -9.71994790228913e-06,
+      "new_source_value": -9.71994790228913e-06,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU15",
+      "cached_value": -0.409482922772801,
+      "new_source_value": -0.409482922772801,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU16",
+      "cached_value": -252.453444246559,
+      "new_source_value": -252.453444246559,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU17",
+      "cached_value": -0.0165236004708114,
+      "new_source_value": -0.0165236004708114,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU18",
+      "cached_value": 1.13910410503997e-06,
+      "new_source_value": 1.13910410503997e-06,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU19",
+      "cached_value": -2.32795245667454e-06,
+      "new_source_value": -2.32795245667454e-06,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU20",
+      "cached_value": -0.126087824636751,
+      "new_source_value": -0.126087824636751,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU21",
+      "cached_value": -16.0228318178325,
+      "new_source_value": -16.0228318178325,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU6",
+      "cached_value": -0.697692636277873,
+      "new_source_value": -0.697692636277873,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU7",
+      "cached_value": -74.3776801387105,
+      "new_source_value": -74.3776801387105,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU8",
+      "cached_value": -1001.65201997166,
+      "new_source_value": -1001.65201997166,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AU9",
+      "cached_value": 348.363860363353,
+      "new_source_value": 348.363860363353,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV10",
+      "cached_value": -0.0838770026836168,
+      "new_source_value": -0.0838770026836168,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV11",
+      "cached_value": -0.072884011648231,
+      "new_source_value": -0.072884011648231,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV12",
+      "cached_value": -0.983482806859677,
+      "new_source_value": -0.983482806859677,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV13",
+      "cached_value": -1.22935312200045e-07,
+      "new_source_value": -1.22935312200045e-07,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV14",
+      "cached_value": -1.06569473661562e-05,
+      "new_source_value": -1.06569473661562e-05,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV15",
+      "cached_value": -3.60958655742106,
+      "new_source_value": -3.60958655742106,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV16",
+      "cached_value": -340.343040838346,
+      "new_source_value": -340.343040838346,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV17",
+      "cached_value": -0.0310344115665387,
+      "new_source_value": -0.0310344115665387,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV18",
+      "cached_value": 8.59541601949897e-07,
+      "new_source_value": 8.59541601949897e-07,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV19",
+      "cached_value": -3.57206209894071e-06,
+      "new_source_value": -3.57206209894071e-06,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV20",
+      "cached_value": -0.226524916607392,
+      "new_source_value": -0.226524916607392,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV21",
+      "cached_value": -23.0289015609579,
+      "new_source_value": -23.0289015609579,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV6",
+      "cached_value": -0.852151725464282,
+      "new_source_value": -0.852151725464282,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV7",
+      "cached_value": -92.7809952236231,
+      "new_source_value": -92.7809952236231,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV8",
+      "cached_value": -2002.79251868895,
+      "new_source_value": -2002.79251868895,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AV9",
+      "cached_value": 78.4907725551143,
+      "new_source_value": 78.4907725551143,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW10",
+      "cached_value": 0.00799465039995559,
+      "new_source_value": 0.00799465039995559,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW11",
+      "cached_value": 0.0126358174028961,
+      "new_source_value": 0.0126358174028961,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW12",
+      "cached_value": 0.107407924382893,
+      "new_source_value": 0.107407924382893,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW13",
+      "cached_value": -8.51674121311285e-10,
+      "new_source_value": -8.51674121311285e-10,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW14",
+      "cached_value": -1.06196224123346e-06,
+      "new_source_value": -1.06196224123346e-06,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW15",
+      "cached_value": 2.05130461574225,
+      "new_source_value": 2.05130461574225,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW16",
+      "cached_value": 4.32439849134715,
+      "new_source_value": 4.32439849134715,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW17",
+      "cached_value": -0.00202138067082127,
+      "new_source_value": -0.00202138067082127,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW18",
+      "cached_value": 1.60746824432079e-06,
+      "new_source_value": 1.60746824432079e-06,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW19",
+      "cached_value": 1.50946356499166e-07,
+      "new_source_value": 1.50946356499166e-07,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW20",
+      "cached_value": 0.0640537127077106,
+      "new_source_value": 0.0640537127077106,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW21",
+      "cached_value": 0.432026460539517,
+      "new_source_value": 0.432026460539517,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW6",
+      "cached_value": -0.034382831097189,
+      "new_source_value": -0.034382831097189,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW7",
+      "cached_value": -50.2127386187443,
+      "new_source_value": -50.2127386187443,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW8",
+      "cached_value": -63.7590034751328,
+      "new_source_value": -63.7590034751328,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "AW9",
+      "cached_value": 643.196379114316,
+      "new_source_value": 643.196379114316,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "G24",
+      "cached_value": -92.7809952236231,
+      "new_source_value": -92.7809952236231,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "G44",
+      "cached_value": -50.2127386187443,
+      "new_source_value": -50.2127386187443,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "G6",
+      "cached_value": -74.3776801387105,
+      "new_source_value": -74.3776801387105,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "H17",
+      "cached_value": -96.901,
+      "new_source_value": -96.901,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "H35",
+      "cached_value": -96.901,
+      "new_source_value": -96.901,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "H55",
+      "cached_value": -93.4177,
+      "new_source_value": -93.4177,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O10",
+      "cached_value": -8.21107242844925,
+      "new_source_value": -8.21107242844925,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O11",
+      "cached_value": 2.46651315179818,
+      "new_source_value": 2.46651315179818,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O12",
+      "cached_value": -95.3593496214017,
+      "new_source_value": -95.3593496214017,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O13",
+      "cached_value": 18.0109822524959,
+      "new_source_value": 18.0109822524959,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O16",
+      "cached_value": 7.77169919295824,
+      "new_source_value": 7.77169919295824,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O17",
+      "cached_value": -7.26752511456069,
+      "new_source_value": -7.26752511456069,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O18",
+      "cached_value": -92.8928364696038,
+      "new_source_value": -92.8928364696038,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O6",
+      "cached_value": 4.57290110750607,
+      "new_source_value": 4.57290110750607,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O7",
+      "cached_value": 2.05282054981289,
+      "new_source_value": 2.05282054981289,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O8",
+      "cached_value": 1.14597753563927,
+      "new_source_value": 1.14597753563927,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "O9",
+      "cached_value": 0.94354731388845,
+      "new_source_value": 0.94354731388845,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P10",
+      "cached_value": -14.6438945428895,
+      "new_source_value": -14.6438945428895,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P11",
+      "cached_value": 1.72442201047957,
+      "new_source_value": 1.72442201047957,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P12",
+      "cached_value": -99.6907350037622,
+      "new_source_value": -99.6907350037622,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P13",
+      "cached_value": 13.8748262577974,
+      "new_source_value": 13.8748262577974,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P16",
+      "cached_value": 5.27822962976778,
+      "new_source_value": 5.27822962976778,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P17",
+      "cached_value": -13.9677381179063,
+      "new_source_value": -13.9677381179063,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P18",
+      "cached_value": -97.9663129932828,
+      "new_source_value": -97.9663129932828,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P6",
+      "cached_value": 3.46145152660953,
+      "new_source_value": 3.46145152660953,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P7",
+      "cached_value": 1.2473013602,
+      "new_source_value": 1.2473013602,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P8",
+      "cached_value": 0.569476742957538,
+      "new_source_value": 0.569476742957538,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "P9",
+      "cached_value": 0.676156424983117,
+      "new_source_value": 0.676156424983117,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q10",
+      "cached_value": -0.943562692702909,
+      "new_source_value": -0.943562692702909,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q11",
+      "cached_value": 2.97963044705713,
+      "new_source_value": 2.97963044705713,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q12",
+      "cached_value": -83.9889104378814,
+      "new_source_value": -83.9889104378814,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q13",
+      "cached_value": 20.8473232271428,
+      "new_source_value": 20.8473232271428,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q16",
+      "cached_value": 9.85136058460894,
+      "new_source_value": 9.85136058460894,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q17",
+      "cached_value": 0.0978575603277353,
+      "new_source_value": 0.0978575603277353,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q18",
+      "cached_value": -81.0092799908239,
+      "new_source_value": -81.0092799908239,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q6",
+      "cached_value": 5.22275504259426,
+      "new_source_value": 5.22275504259426,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q7",
+      "cached_value": 2.80665024834239,
+      "new_source_value": 2.80665024834239,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q8",
+      "cached_value": 1.82195529367231,
+      "new_source_value": 1.82195529367231,
+      "equal": true
+    },
+    {
+      "sheet": "Results substitution",
+      "cell": "Q9",
+      "cached_value": 1.04142025303063,
+      "new_source_value": 1.04142025303063,
+      "equal": true
+    }
+  ]
+}

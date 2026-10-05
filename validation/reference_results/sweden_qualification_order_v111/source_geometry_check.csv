@@ -1,0 +1,4 @@
+road_type,reported_MIBA_Mg_per_km,geometry_times_printed_density_Mg_per_km,relative_mass_discrepancy_percent,implied_density_Mg_per_m3,analysis_rule
+single,6638.0,6485.499999999999,2.351399275306476,1.73997378768021,retain printed FU masses; flag discrepancy; do not silently replace
+double,12180.0,11900.0,2.35294117647058,1.74,retain printed FU masses; flag discrepancy; do not silently replace
+bike,2436.0,2380.0,2.35294117647058,1.74,retain printed FU masses; flag discrepancy; do not silently replace

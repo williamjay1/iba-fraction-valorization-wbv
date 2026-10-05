@@ -1,0 +1,6 @@
+plant,oxide_only_highest_fraction_mm,carbonate_corrected_highest_fraction_mm,ceiling_selection_difference_kgCO2_per_Mg_fraction,ranking_changed,change_survives_display_rounding,source_csv
+PR,0.063–0.2,0.063–0.2,0.0,False,,results/same_material_v114/mantovani_joint_samples.csv
+PC,0.2–0.3,0.063–0.2,0.5785345660667645,True,False,results/same_material_v114/mantovani_joint_samples.csv
+TO,0.2–0.3,0.5–1,4.4612113566339815,True,True,results/same_material_v114/mantovani_joint_samples.csv
+FE,0.063–0.2,0.063–0.2,0.0,False,,results/same_material_v114/mantovani_joint_samples.csv
+FC,0.063–0.2,0.2–0.3,17.670605601412632,True,True,results/same_material_v114/mantovani_joint_samples.csv

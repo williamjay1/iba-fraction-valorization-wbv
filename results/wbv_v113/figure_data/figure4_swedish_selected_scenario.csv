@@ -1,0 +1,2 @@
+case,road_type,transport_setting,p,q,all_batch_net_if_Delta_zero,eligible_only_net_if_Delta_zero,all_batch_Delta_max,eligible_only_Delta_max,source_csv,source_row_1_based_after_header,hypothetical_extra_burden,eligible_only_requires_prior_independent_eligibility
+2,single,HVO10_source_base,10.0,0.5,3.853570352515818,-1.1464296474841822,-3.853570352515818,1.1464296474841822,results/sweden_qualification_order_v111/qualification_order_grid.csv,2980,True,True

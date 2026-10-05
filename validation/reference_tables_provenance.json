@@ -1,0 +1,19 @@
+{
+  "source_main_name": "manuscript_wbv_v113.md",
+  "source_main_sha256": "0d1259c59f2068bb4fb9ae613f805965b75d48832721bc68ef018f3d958fed86",
+  "source_supplement_name": "supplement_wbv_v113.md",
+  "source_supplement_sha256": "699a9322fcbaddea8dd4b89f17fbe605496898d6acbcd68a99903cb324987626",
+  "reference_tables_sha256": "b8ed2b7577703bcbeea0811eda79848673140e7e96ba8663d84026d96949d785",
+  "table_rows_including_headers": {
+    "Table 1": 5,
+    "Table 2": 12,
+    "Table 3": 6,
+    "Table 4": 7,
+    "Table S1": 5,
+    "Table S2": 5,
+    "Table S3": 4,
+    "Table S4": 9,
+    "Table S5": 7
+  },
+  "generation": "Table rows extracted once from finalized Markdown, excluding separator rows; original strings and rounding retained. Not generated from numerical CSV outputs. No manuscript prose is distributed here."
+}

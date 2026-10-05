@@ -1,0 +1,169 @@
+sample_key,matrix,analyte,raw_token,unit,lower,upper,censor_status,inert_comparison_limit,nominal_screen_status,locator
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Zn,< 0.05,mg/kg dry test solid,0.0,0.05,left_censored_known_limit,4.0,below_or_at_comparator,Table4 row 2 column 2
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Cr,0.09,mg/kg dry test solid,0.09,0.09,reported_numeric,0.5,below_or_at_comparator,Table4 row 2 column 3
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Mo,2.97,mg/kg dry test solid,2.97,2.97,reported_numeric,0.5,exceeds_comparator,Table4 row 2 column 4
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Ni,0.10,mg/kg dry test solid,0.1,0.1,reported_numeric,0.4,below_or_at_comparator,Table4 row 2 column 5
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Cu,5.57,mg/kg dry test solid,5.57,5.57,reported_numeric,2.0,exceeds_comparator,Table4 row 2 column 6
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Sb,0.69,mg/kg dry test solid,0.69,0.69,reported_numeric,0.06,exceeds_comparator,Table4 row 2 column 7
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,As,0.02,mg/kg dry test solid,0.02,0.02,reported_numeric,0.5,below_or_at_comparator,Table4 row 2 column 8
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Pb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.5,below_or_at_comparator,Table4 row 2 column 9
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table4 row 2 column 10
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table4 row 2 column 11
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Ba,0.72,mg/kg dry test solid,0.72,0.72,reported_numeric,20.0,below_or_at_comparator,Table4 row 2 column 12
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table4 row 2 column 13
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,Cl −,5194,mg/kg dry test solid,5194.0,5194.0,reported_numeric,800.0,exceeds_comparator,Table4 row 2 column 14
+MarcoGibert2026:Mataro:0-2mm,powdered_IBA,SO 4 2−,6407,mg/kg dry test solid,6407.0,6407.0,reported_numeric,1000.0,exceeds_comparator,Table4 row 2 column 15
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Zn,0.06,mg/kg dry test solid,0.06,0.06,reported_numeric,4.0,below_or_at_comparator,Table5 row 2 column 2
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Cr,0.13,mg/kg dry test solid,0.13,0.13,reported_numeric,0.5,below_or_at_comparator,Table5 row 2 column 3
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Mo,0.46,mg/kg dry test solid,0.46,0.46,reported_numeric,0.5,below_or_at_comparator,Table5 row 2 column 4
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Ni,0.02,mg/kg dry test solid,0.02,0.02,reported_numeric,0.4,below_or_at_comparator,Table5 row 2 column 5
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Cu,0.17,mg/kg dry test solid,0.17,0.17,reported_numeric,2.0,below_or_at_comparator,Table5 row 2 column 6
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Sb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.06,below_or_at_comparator,Table5 row 2 column 7
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,As,< 0.02,mg/kg dry test solid,0.0,0.02,left_censored_known_limit,0.5,below_or_at_comparator,Table5 row 2 column 8
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Pb,0.16,mg/kg dry test solid,0.16,0.16,reported_numeric,0.5,below_or_at_comparator,Table5 row 2 column 9
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table5 row 2 column 10
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table5 row 2 column 11
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Ba,0.01,mg/kg dry test solid,0.01,0.01,reported_numeric,20.0,below_or_at_comparator,Table5 row 2 column 12
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table5 row 2 column 13
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,Cl −,123,mg/kg dry test solid,123.0,123.0,reported_numeric,800.0,below_or_at_comparator,Table5 row 2 column 14
+MarcoGibert2026:Mataro:0-2mm,crushed_mortar,SO 4 2−,13,mg/kg dry test solid,13.0,13.0,reported_numeric,1000.0,below_or_at_comparator,Table5 row 2 column 15
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Zn,< 0.05,mg/kg dry test solid,0.0,0.05,left_censored_known_limit,4.0,below_or_at_comparator,Table4 row 3 column 2
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Cr,0.10,mg/kg dry test solid,0.1,0.1,reported_numeric,0.5,below_or_at_comparator,Table4 row 3 column 3
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Mo,2.48,mg/kg dry test solid,2.48,2.48,reported_numeric,0.5,exceeds_comparator,Table4 row 3 column 4
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Ni,0.19,mg/kg dry test solid,0.19,0.19,reported_numeric,0.4,below_or_at_comparator,Table4 row 3 column 5
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Cu,7.67,mg/kg dry test solid,7.67,7.67,reported_numeric,2.0,exceeds_comparator,Table4 row 3 column 6
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Sb,1.25,mg/kg dry test solid,1.25,1.25,reported_numeric,0.06,exceeds_comparator,Table4 row 3 column 7
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,As,0.03,mg/kg dry test solid,0.03,0.03,reported_numeric,0.5,below_or_at_comparator,Table4 row 3 column 8
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Pb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.5,below_or_at_comparator,Table4 row 3 column 9
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table4 row 3 column 10
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table4 row 3 column 11
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Ba,0.36,mg/kg dry test solid,0.36,0.36,reported_numeric,20.0,below_or_at_comparator,Table4 row 3 column 12
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table4 row 3 column 13
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,Cl −,3624,mg/kg dry test solid,3624.0,3624.0,reported_numeric,800.0,exceeds_comparator,Table4 row 3 column 14
+MarcoGibert2026:Mataro:2-4mm,powdered_IBA,SO 4 2−,5600,mg/kg dry test solid,5600.0,5600.0,reported_numeric,1000.0,exceeds_comparator,Table4 row 3 column 15
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Zn,< 0.05,mg/kg dry test solid,0.0,0.05,left_censored_known_limit,4.0,below_or_at_comparator,Table5 row 3 column 2
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Cr,0.09,mg/kg dry test solid,0.09,0.09,reported_numeric,0.5,below_or_at_comparator,Table5 row 3 column 3
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Mo,0.54,mg/kg dry test solid,0.54,0.54,reported_numeric,0.5,exceeds_comparator,Table5 row 3 column 4
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Ni,0.04,mg/kg dry test solid,0.04,0.04,reported_numeric,0.4,below_or_at_comparator,Table5 row 3 column 5
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Cu,0.16,mg/kg dry test solid,0.16,0.16,reported_numeric,2.0,below_or_at_comparator,Table5 row 3 column 6
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Sb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.06,below_or_at_comparator,Table5 row 3 column 7
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,As,< 0.02,mg/kg dry test solid,0.0,0.02,left_censored_known_limit,0.5,below_or_at_comparator,Table5 row 3 column 8
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Pb,0.12,mg/kg dry test solid,0.12,0.12,reported_numeric,0.5,below_or_at_comparator,Table5 row 3 column 9
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table5 row 3 column 10
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table5 row 3 column 11
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Ba,0.01,mg/kg dry test solid,0.01,0.01,reported_numeric,20.0,below_or_at_comparator,Table5 row 3 column 12
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table5 row 3 column 13
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,Cl −,103,mg/kg dry test solid,103.0,103.0,reported_numeric,800.0,below_or_at_comparator,Table5 row 3 column 14
+MarcoGibert2026:Mataro:2-4mm,crushed_mortar,SO 4 2−,42,mg/kg dry test solid,42.0,42.0,reported_numeric,1000.0,below_or_at_comparator,Table5 row 3 column 15
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Zn,0.05,mg/kg dry test solid,0.05,0.05,reported_numeric,4.0,below_or_at_comparator,Table4 row 4 column 2
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Cr,0.02,mg/kg dry test solid,0.02,0.02,reported_numeric,0.5,below_or_at_comparator,Table4 row 4 column 3
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Mo,0.83,mg/kg dry test solid,0.83,0.83,reported_numeric,0.5,exceeds_comparator,Table4 row 4 column 4
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Ni,0.03,mg/kg dry test solid,0.03,0.03,reported_numeric,0.4,below_or_at_comparator,Table4 row 4 column 5
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Cu,1.91,mg/kg dry test solid,1.91,1.91,reported_numeric,2.0,below_or_at_comparator,Table4 row 4 column 6
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Sb,0.94,mg/kg dry test solid,0.94,0.94,reported_numeric,0.06,exceeds_comparator,Table4 row 4 column 7
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,As,0.33,mg/kg dry test solid,0.33,0.33,reported_numeric,0.5,below_or_at_comparator,Table4 row 4 column 8
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Pb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.5,below_or_at_comparator,Table4 row 4 column 9
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table4 row 4 column 10
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table4 row 4 column 11
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Ba,0.05,mg/kg dry test solid,0.05,0.05,reported_numeric,20.0,below_or_at_comparator,Table4 row 4 column 12
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table4 row 4 column 13
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,Cl −,1158,mg/kg dry test solid,1158.0,1158.0,reported_numeric,800.0,exceeds_comparator,Table4 row 4 column 14
+MarcoGibert2026:Mataro:4-8mm,powdered_IBA,SO 4 2−,1129,mg/kg dry test solid,1129.0,1129.0,reported_numeric,1000.0,exceeds_comparator,Table4 row 4 column 15
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Zn,< 0.05,mg/kg dry test solid,0.0,0.05,left_censored_known_limit,4.0,below_or_at_comparator,Table5 row 4 column 2
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Cr,0.05,mg/kg dry test solid,0.05,0.05,reported_numeric,0.5,below_or_at_comparator,Table5 row 4 column 3
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Mo,0.70,mg/kg dry test solid,0.7,0.7,reported_numeric,0.5,exceeds_comparator,Table5 row 4 column 4
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Ni,0.01,mg/kg dry test solid,0.01,0.01,reported_numeric,0.4,below_or_at_comparator,Table5 row 4 column 5
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Cu,0.08,mg/kg dry test solid,0.08,0.08,reported_numeric,2.0,below_or_at_comparator,Table5 row 4 column 6
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Sb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.06,below_or_at_comparator,Table5 row 4 column 7
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,As,< 0.02,mg/kg dry test solid,0.0,0.02,left_censored_known_limit,0.5,below_or_at_comparator,Table5 row 4 column 8
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Pb,0.09,mg/kg dry test solid,0.09,0.09,reported_numeric,0.5,below_or_at_comparator,Table5 row 4 column 9
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table5 row 4 column 10
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table5 row 4 column 11
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Ba,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,20.0,below_or_at_comparator,Table5 row 4 column 12
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table5 row 4 column 13
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,Cl −,79,mg/kg dry test solid,79.0,79.0,reported_numeric,800.0,below_or_at_comparator,Table5 row 4 column 14
+MarcoGibert2026:Mataro:4-8mm,crushed_mortar,SO 4 2−,56,mg/kg dry test solid,56.0,56.0,reported_numeric,1000.0,below_or_at_comparator,Table5 row 4 column 15
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Zn,< 0.05,mg/kg dry test solid,0.0,0.05,left_censored_known_limit,4.0,below_or_at_comparator,Table4 row 5 column 2
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Cr,0.02,mg/kg dry test solid,0.02,0.02,reported_numeric,0.5,below_or_at_comparator,Table4 row 5 column 3
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Mo,1.17,mg/kg dry test solid,1.17,1.17,reported_numeric,0.5,exceeds_comparator,Table4 row 5 column 4
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Ni,0.02,mg/kg dry test solid,0.02,0.02,reported_numeric,0.4,below_or_at_comparator,Table4 row 5 column 5
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Cu,1.16,mg/kg dry test solid,1.16,1.16,reported_numeric,2.0,below_or_at_comparator,Table4 row 5 column 6
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Sb,0.46,mg/kg dry test solid,0.46,0.46,reported_numeric,0.06,exceeds_comparator,Table4 row 5 column 7
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,As,0.29,mg/kg dry test solid,0.29,0.29,reported_numeric,0.5,below_or_at_comparator,Table4 row 5 column 8
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Pb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.5,below_or_at_comparator,Table4 row 5 column 9
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table4 row 5 column 10
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table4 row 5 column 11
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Ba,0.02,mg/kg dry test solid,0.02,0.02,reported_numeric,20.0,below_or_at_comparator,Table4 row 5 column 12
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table4 row 5 column 13
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,Cl −,1077,mg/kg dry test solid,1077.0,1077.0,reported_numeric,800.0,exceeds_comparator,Table4 row 5 column 14
+MarcoGibert2026:Mataro:8-16mm,powdered_IBA,SO 4 2−,1585,mg/kg dry test solid,1585.0,1585.0,reported_numeric,1000.0,exceeds_comparator,Table4 row 5 column 15
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Zn,0.06,mg/kg dry test solid,0.06,0.06,reported_numeric,4.0,below_or_at_comparator,Table5 row 5 column 2
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Cr,0.04,mg/kg dry test solid,0.04,0.04,reported_numeric,0.5,below_or_at_comparator,Table5 row 5 column 3
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Mo,0.65,mg/kg dry test solid,0.65,0.65,reported_numeric,0.5,exceeds_comparator,Table5 row 5 column 4
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Ni,0.01,mg/kg dry test solid,0.01,0.01,reported_numeric,0.4,below_or_at_comparator,Table5 row 5 column 5
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Cu,0.10,mg/kg dry test solid,0.1,0.1,reported_numeric,2.0,below_or_at_comparator,Table5 row 5 column 6
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Sb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.06,below_or_at_comparator,Table5 row 5 column 7
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,As,< 0.02,mg/kg dry test solid,0.0,0.02,left_censored_known_limit,0.5,below_or_at_comparator,Table5 row 5 column 8
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Pb,0.07,mg/kg dry test solid,0.07,0.07,reported_numeric,0.5,below_or_at_comparator,Table5 row 5 column 9
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table5 row 5 column 10
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table5 row 5 column 11
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Ba,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,20.0,below_or_at_comparator,Table5 row 5 column 12
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table5 row 5 column 13
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,Cl −,77,mg/kg dry test solid,77.0,77.0,reported_numeric,800.0,below_or_at_comparator,Table5 row 5 column 14
+MarcoGibert2026:Mataro:8-16mm,crushed_mortar,SO 4 2−,38,mg/kg dry test solid,38.0,38.0,reported_numeric,1000.0,below_or_at_comparator,Table5 row 5 column 15
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Zn,0.14,mg/kg dry test solid,0.14,0.14,reported_numeric,4.0,below_or_at_comparator,Table4 row 6 column 2
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Cr,0.09,mg/kg dry test solid,0.09,0.09,reported_numeric,0.5,below_or_at_comparator,Table4 row 6 column 3
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Mo,1.10,mg/kg dry test solid,1.1,1.1,reported_numeric,0.5,exceeds_comparator,Table4 row 6 column 4
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Ni,0.03,mg/kg dry test solid,0.03,0.03,reported_numeric,0.4,below_or_at_comparator,Table4 row 6 column 5
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Cu,1.80,mg/kg dry test solid,1.8,1.8,reported_numeric,2.0,below_or_at_comparator,Table4 row 6 column 6
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Sb,1.18,mg/kg dry test solid,1.18,1.18,reported_numeric,0.06,exceeds_comparator,Table4 row 6 column 7
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,As,0.09,mg/kg dry test solid,0.09,0.09,reported_numeric,0.5,below_or_at_comparator,Table4 row 6 column 8
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Pb,0.02,mg/kg dry test solid,0.02,0.02,reported_numeric,0.5,below_or_at_comparator,Table4 row 6 column 9
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table4 row 6 column 10
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table4 row 6 column 11
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Ba,0.15,mg/kg dry test solid,0.15,0.15,reported_numeric,20.0,below_or_at_comparator,Table4 row 6 column 12
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table4 row 6 column 13
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,Cl −,1022,mg/kg dry test solid,1022.0,1022.0,reported_numeric,800.0,exceeds_comparator,Table4 row 6 column 14
+MarcoGibert2026:Mataro:>16mm,powdered_IBA,SO 4 2−,1412,mg/kg dry test solid,1412.0,1412.0,reported_numeric,1000.0,exceeds_comparator,Table4 row 6 column 15
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Zn,< 0.05,mg/kg dry test solid,0.0,0.05,left_censored_known_limit,4.0,below_or_at_comparator,Table5 row 6 column 2
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Cr,0.05,mg/kg dry test solid,0.05,0.05,reported_numeric,0.5,below_or_at_comparator,Table5 row 6 column 3
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Mo,0.45,mg/kg dry test solid,0.45,0.45,reported_numeric,0.5,below_or_at_comparator,Table5 row 6 column 4
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Ni,0.01,mg/kg dry test solid,0.01,0.01,reported_numeric,0.4,below_or_at_comparator,Table5 row 6 column 5
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Cu,0.10,mg/kg dry test solid,0.1,0.1,reported_numeric,2.0,below_or_at_comparator,Table5 row 6 column 6
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Sb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.06,below_or_at_comparator,Table5 row 6 column 7
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,As,< 0.02,mg/kg dry test solid,0.0,0.02,left_censored_known_limit,0.5,below_or_at_comparator,Table5 row 6 column 8
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Pb,0.09,mg/kg dry test solid,0.09,0.09,reported_numeric,0.5,below_or_at_comparator,Table5 row 6 column 9
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table5 row 6 column 10
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table5 row 6 column 11
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Ba,0.01,mg/kg dry test solid,0.01,0.01,reported_numeric,20.0,below_or_at_comparator,Table5 row 6 column 12
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table5 row 6 column 13
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,Cl −,71,mg/kg dry test solid,71.0,71.0,reported_numeric,800.0,below_or_at_comparator,Table5 row 6 column 14
+MarcoGibert2026:Mataro:>16mm,crushed_mortar,SO 4 2−,33,mg/kg dry test solid,33.0,33.0,reported_numeric,1000.0,below_or_at_comparator,Table5 row 6 column 15
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Zn,0.05,mg/kg dry test solid,0.05,0.05,reported_numeric,4.0,below_or_at_comparator,Table4 row 7 column 2
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Cr,0.07,mg/kg dry test solid,0.07,0.07,reported_numeric,0.5,below_or_at_comparator,Table4 row 7 column 3
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Mo,1.02,mg/kg dry test solid,1.02,1.02,reported_numeric,0.5,exceeds_comparator,Table4 row 7 column 4
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Ni,0.04,mg/kg dry test solid,0.04,0.04,reported_numeric,0.4,below_or_at_comparator,Table4 row 7 column 5
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Cu,3.92,mg/kg dry test solid,3.92,3.92,reported_numeric,2.0,exceeds_comparator,Table4 row 7 column 6
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Sb,1.52,mg/kg dry test solid,1.52,1.52,reported_numeric,0.06,exceeds_comparator,Table4 row 7 column 7
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,As,0.17,mg/kg dry test solid,0.17,0.17,reported_numeric,0.5,below_or_at_comparator,Table4 row 7 column 8
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Pb,0.08,mg/kg dry test solid,0.08,0.08,reported_numeric,0.5,below_or_at_comparator,Table4 row 7 column 9
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table4 row 7 column 10
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Hg,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table4 row 7 column 11
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Ba,0.10,mg/kg dry test solid,0.1,0.1,reported_numeric,20.0,below_or_at_comparator,Table4 row 7 column 12
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table4 row 7 column 13
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,Cl −,1566,mg/kg dry test solid,1566.0,1566.0,reported_numeric,800.0,exceeds_comparator,Table4 row 7 column 14
+MarcoGibert2026:Mataro:Entiremm,powdered_IBA,SO 4 2−,1676,mg/kg dry test solid,1676.0,1676.0,reported_numeric,1000.0,exceeds_comparator,Table4 row 7 column 15
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Zn,< 0.05,mg/kg dry test solid,0.0,0.05,left_censored_known_limit,4.0,below_or_at_comparator,Table5 row 7 column 2
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Cr,0.07,mg/kg dry test solid,0.07,0.07,reported_numeric,0.5,below_or_at_comparator,Table5 row 7 column 3
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Mo,0.63,mg/kg dry test solid,0.63,0.63,reported_numeric,0.5,exceeds_comparator,Table5 row 7 column 4
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Ni,0.01,mg/kg dry test solid,0.01,0.01,reported_numeric,0.4,below_or_at_comparator,Table5 row 7 column 5
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Cu,0.04,mg/kg dry test solid,0.04,0.04,reported_numeric,2.0,below_or_at_comparator,Table5 row 7 column 6
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Sb,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.06,below_or_at_comparator,Table5 row 7 column 7
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,As,< 0.02,mg/kg dry test solid,0.0,0.02,left_censored_known_limit,0.5,below_or_at_comparator,Table5 row 7 column 8
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Pb,0.07,mg/kg dry test solid,0.07,0.07,reported_numeric,0.5,below_or_at_comparator,Table5 row 7 column 9
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Cd,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.04,below_or_at_comparator,Table5 row 7 column 10
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Hg,< 0.010,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,0.01,below_or_at_comparator,Table5 row 7 column 11
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Ba,< 0.01,mg/kg dry test solid,0.0,0.01,left_censored_known_limit,20.0,below_or_at_comparator,Table5 row 7 column 12
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Se,< 0.10,mg/kg dry test solid,0.0,0.1,left_censored_known_limit,0.1,below_or_at_comparator,Table5 row 7 column 13
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,Cl −,100,mg/kg dry test solid,100.0,100.0,reported_numeric,800.0,below_or_at_comparator,Table5 row 7 column 14
+MarcoGibert2026:Mataro:Entiremm,crushed_mortar,SO 4 2−,36,mg/kg dry test solid,36.0,36.0,reported_numeric,1000.0,below_or_at_comparator,Table5 row 7 column 15

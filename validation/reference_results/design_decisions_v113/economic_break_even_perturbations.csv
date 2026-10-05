@@ -1,0 +1,5 @@
+perturbation,break_even_fraction,break_even_percent,baseline_relative_advantage_EUR_per_FU,status
+cost_increase,0.20270627835161317,20.270627835161317,5.721124852896125,"analytic scenario threshold, not estimated price uncertainty"
+revenue_decrease,0.6396003705047625,63.960037050476245,5.721124852896125,"analytic scenario threshold, not estimated price uncertainty"
+reference_cost_decrease,0.228844994115845,22.8844994115845,5.721124852896125,"analytic scenario threshold, not estimated price uncertainty"
+joint_equal_adverse_fraction,0.09202601379213739,9.202601379213739,5.721124852896125,"analytic scenario threshold, not estimated price uncertainty"

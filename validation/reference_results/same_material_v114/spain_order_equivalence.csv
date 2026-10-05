@@ -1,0 +1,6 @@
+Mo_comparator,same_joint_set_for_both_orders,nominal_joint_fraction_count,not_estimated
+0.5,True,0,"new-lot expected cost, test errors, available bundled-test price"
+0.54,True,1,"new-lot expected cost, test errors, available bundled-test price"
+0.63,True,1,"new-lot expected cost, test errors, available bundled-test price"
+0.65,True,2,"new-lot expected cost, test errors, available bundled-test price"
+0.7,True,3,"new-lot expected cost, test errors, available bundled-test price"

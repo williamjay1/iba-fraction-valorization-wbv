@@ -1,0 +1,10 @@
+{
+  "german_original_sha256": "a8aeb1d6bfade6921bd5761eff294a8441602df7a916a535a957a846306734a9",
+  "swedish_original_sha256": "d76a4d4e4cd81f1024897abfacc04ebef55589679838de99cf759c3c4756e4e6",
+  "german_cell_export_sha256": "0167af8da74ab602aae8bf93be524a052c268aed1138107952cd6786f1356de8",
+  "swedish_cell_export_sha256": "69fe96bc3624198add5b808b1a3cae3dc02fe9d35d2a3b335274e4e327400d1b",
+  "status": "derived public-output cell records with exact locators; not original supplementary files or a licensed-background model",
+  "source_access": "Publisher supplementary files attached to the respective DOI. All complete original files stay unchanged in the raw archive.",
+  "german_metadata": "Elsevier public API identifies the article as open access, CC BY 4.0; no licensed ecoinvent data are copied.",
+  "swedish_supplement_entry": "https://ars.els-cdn.com/content/image/1-s2.0-S0956053X26002199-mmc1.docx"
+}

@@ -1,0 +1,13 @@
+source_scenario,selected_credit_budget_width_kgCO2eq_per_FU,maximum_fine_mass_interval_width_kg,status
+laboratory_scale_2023,1,8.321302106544529,"analyst-selected information precision, not legal or empirical tolerance"
+laboratory_scale_2023,2,16.642604213089058,"analyst-selected information precision, not legal or empirical tolerance"
+laboratory_scale_2023,5,41.606510532722645,"analyst-selected information precision, not legal or empirical tolerance"
+laboratory_scale_2023,10,83.21302106544529,"analyst-selected information precision, not legal or empirical tolerance"
+high_ambition_2030,1,8.321302106544529,"analyst-selected information precision, not legal or empirical tolerance"
+high_ambition_2030,2,16.642604213089058,"analyst-selected information precision, not legal or empirical tolerance"
+high_ambition_2030,5,41.606510532722645,"analyst-selected information precision, not legal or empirical tolerance"
+high_ambition_2030,10,83.21302106544529,"analyst-selected information precision, not legal or empirical tolerance"
+worst_case_2030,1,9.214796957786065,"analyst-selected information precision, not legal or empirical tolerance"
+worst_case_2030,2,18.42959391557213,"analyst-selected information precision, not legal or empirical tolerance"
+worst_case_2030,5,46.073984788930325,"analyst-selected information precision, not legal or empirical tolerance"
+worst_case_2030,10,92.14796957786065,"analyst-selected information precision, not legal or empirical tolerance"

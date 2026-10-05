@@ -1,0 +1,2 @@
+# Preserve original bytes, including CSV line endings, for checksum reproduction.
+* -text

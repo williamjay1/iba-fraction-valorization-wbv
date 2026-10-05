@@ -1,0 +1,7 @@
+fraction,approximate_feed_mass_share_percent,strength_pass,Mo_pass,joint_pass,whole_mixture_separate_formulation
+0–2,32.0,False,True,False,False
+2–4,18.0,True,False,False,False
+4–8,15.0,True,False,False,False
+8–16,21.0,True,False,False,False
+>16,14.000000000000002,False,True,False,False
+Whole mixture,,True,False,False,True

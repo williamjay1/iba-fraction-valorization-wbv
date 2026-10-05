@@ -1,0 +1,6 @@
+omitted_plant,priority_changes_in_other_four,maximum_composition_ceiling_loss,Cl_screen_pass_other_four,interpretation
+PR,3,17.670605601412632,0,"leave-one-plant descriptive stability, not fitted/predicted generalization error"
+PC,2,17.670605601412632,0,"leave-one-plant descriptive stability, not fitted/predicted generalization error"
+TO,2,17.670605601412632,0,"leave-one-plant descriptive stability, not fitted/predicted generalization error"
+FE,3,17.670605601412632,0,"leave-one-plant descriptive stability, not fitted/predicted generalization error"
+FC,2,4.4612113566339815,0,"leave-one-plant descriptive stability, not fitted/predicted generalization error"

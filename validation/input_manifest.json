@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "files": [
+    {
+      "path": "datasets/published_output_cells/german_source_cells.csv",
+      "bytes": 13629,
+      "sha256": "0167af8da74ab602aae8bf93be524a052c268aed1138107952cd6786f1356de8"
+    },
+    {
+      "path": "datasets/published_output_cells/swedish_source_table_cells.json",
+      "bytes": 4689,
+      "sha256": "69fe96bc3624198add5b808b1a3cae3dc02fe9d35d2a3b335274e4e327400d1b"
+    },
+    {
+      "path": "datasets/published_output_cells/source_cache_manifest.json",
+      "bytes": 926,
+      "sha256": "a2d067e62b18300fecefd24b41bbb470104c128cb6506420cc00a6fdf771a4e2"
+    },
+    {
+      "path": "datasets/same_material_v114/mantovani_cell_cache.json",
+      "bytes": 84208,
+      "sha256": "42c599db8369154b0e88f71e29fe1d892b5c703b6e8bff770cc9f6d5d22dbc55"
+    },
+    {
+      "path": "datasets/same_material_v114/marco_gibert2026_table_2_tables.json",
+      "bytes": 3070,
+      "sha256": "eab985187d3a752ffef0737494be8e1c81ae7a9eea958aafb82c913746363fbd"
+    },
+    {
+      "path": "datasets/same_material_v114/marco_gibert2026_table_3_tables.json",
+      "bytes": 2761,
+      "sha256": "b3c4a69c3f70d497e380c155f7d37f591edba1e213a261bb63df69bf589e8681"
+    },
+    {
+      "path": "datasets/same_material_v114/marco_gibert2026_table_4_tables.json",
+      "bytes": 2634,
+      "sha256": "f3c1ed874548550bc3c6619337831a7df05380d8fb88b6cb40ad59f469cf1585"
+    },
+    {
+      "path": "datasets/same_material_v114/marco_gibert2026_table_5_tables.json",
+      "bytes": 1942,
+      "sha256": "429e088817abd5f2c7f9236d647ac51dea2e605d04bfbf6bbba15acfe61a5990"
+    },
+    {
+      "path": "datasets/treatment_synthesis/abis2021_ec_leachate_pairs_v106.csv",
+      "bytes": 2059,
+      "sha256": "08c616ba3ddce10e8edcd8e0356fdc45de74ddecb18dde51ec8bfe239a7189e3"
+    },
+    {
+      "path": "datasets/treatment_synthesis/abis2021_ec_leachate_pairs_v111_metadata_corrected.csv",
+      "bytes": 2054,
+      "sha256": "8dfd2f3f5bdc68fecd58de749d6e9cb398a6b0f976f2acbf1d25064cfc1902aa"
+    },
+    {
+      "path": "datasets/treatment_synthesis/audoye_paired_leachate_responses_v103_2026-09-28.csv",
+      "bytes": 217006,
+      "sha256": "cee77dc5c9d3a538cc51924f5fe78d647723c994d180e76fc4c600fa728f3668"
+    },
+    {
+      "path": "results/paired_response_dataset_v98_2026-09-28.csv",
+      "bytes": 570288,
+      "sha256": "441de5db89618c1199b83cbcedef29c403765ff2bd391d922d93e4251a7fc92b"
+    },
+    {
+      "path": "results/ionic_pte_matched_conditions_v108_text_direction_sensitivity_2026-09-30.csv",
+      "bytes": 46329,
+      "sha256": "0bb5d7c17c68afe2f9545f52983341b3995cce0cd732bfd196d7edf37d094e8e"
+    },
+    {
+      "path": "public_sources/abis2021_public_fulltext_20261001.xml",
+      "bytes": 121278,
+      "sha256": "9ff65bb25a96cd81c939c45672991bb70edb9e46eb263a2c6a8009e7ca8cacc9"
+    }
+  ]
+}

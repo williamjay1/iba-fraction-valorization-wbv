@@ -1,0 +1,174 @@
+source_doi,sheet,cell,value_json
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,C23,0.04
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,C24,0.07
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,C29,0.04
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,C30,0.009
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,E42,170.57
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,E43,237.36
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,J33,0.0138
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,J34,0.076
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,K33,0.0178
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,K34,0.1065
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,L13,0.78
+10.1016/j.wasman.2026.115762,CO2 balance raw meal,L8,439.7128894990254
+10.1016/j.wasman.2026.115762,Model-Parameter,E12,19.947
+10.1016/j.wasman.2026.115762,Model-Parameter,E7,6000
+10.1016/j.wasman.2026.115762,Model-Parameter,E8,300000
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B12,"""Al Oxide / SiO₂"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B14,"""Minerals for concrete coars"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B15,"""Minerals for concrete fine"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B16,"""Minerals for clinker medium"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B17,"""Minerals for clinker fine"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B18,"""Magnetic Fe > 40% from medium fraction"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B19,"""Magnetic Fe < 20% from medium fraction"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B20,"""Magnetic Fe > 40% from fine fraction"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B5,"""Magnetic Fe < 20%"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B6,"""Magnetic Fe > 40%"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,B7,"""Copper concentrate"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C12,34.50742672523896
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C14,51.65679200000002
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C15,71.457176
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C16,170.57
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C17,237.36
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C18,36.879999999999995
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C19,229.1169999999999
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C20,20.639999999999997
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C5,119.48512669600002
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C6,25.232121303999993
+10.1016/j.wasman.2026.115762,Operating costs-revenue,C7,3.094357274761048
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H12,"""Aluminum slag"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H14,"""gravel in concrete"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H15,null
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H16,"""raw meal """
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H17,"""calcination in cement production"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H18,"""iron ore"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H19,"""copper ore"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H20,"""iron ore"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H5,"""landfill/ copper ore /landfill"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H6,"""iron ore"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,H7,"""Cu-Matte"""
+10.1016/j.wasman.2026.115762,Operating costs-revenue,R19,19.462130666666667
+10.1016/j.wasman.2026.115762,Overview,L24,28.223718078294024
+10.1016/j.wasman.2026.115762,Overview,L25,8.944842931190149
+10.1016/j.wasman.2026.115762,Overview,L26,-19.278875147103875
+10.1016/j.wasman.2026.115762,Overview,L27,-25
+10.1016/j.wasman.2026.115762,Overview,L28,5.721124852896125
+10.1016/j.wasman.2026.115762,Results substitution,AS10,"""eutrophication: freshwater - fraction of nutrients reaching freshwater end compartment (P)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS11,"""eutrophication: marine - fraction of nutrients reaching marine end compartment (N)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS12,"""eutrophication: terrestrial - accumulated exceedance (AE)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS13,"""human toxicity: carcinogenic - comparative toxic unit for human (CTUh)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS14,"""human toxicity: non-carcinogenic - comparative toxic unit for human (CTUh)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS15,"""ionising radiation: human health - human exposure efficiency relative to u235"""
+10.1016/j.wasman.2026.115762,Results substitution,AS16,"""land use - soil quality index"""
+10.1016/j.wasman.2026.115762,Results substitution,AS17,"""material resources: metals/minerals - abiotic depletion potential (ADP): elements (ultimate reserves)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS18,"""ozone depletion - ozone depletion potential (ODP)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS19,"""particulate matter formation - impact on human health"""
+10.1016/j.wasman.2026.115762,Results substitution,AS20,"""photochemical oxidant formation: human health - tropospheric ozone concentration increase"""
+10.1016/j.wasman.2026.115762,Results substitution,AS21,"""water use - user deprivation potential (deprivation-weighted water consumption)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS6,"""acidification - accumulated exceedance (AE)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS7,"""climate change - global warming potential (GWP100)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS8,"""ecotoxicity: freshwater - comparative toxic unit for ecosystems (CTUe)"""
+10.1016/j.wasman.2026.115762,Results substitution,AS9,"""energy resources: non-renewable - abiotic depletion potential (ADP): fossil fuels"""
+10.1016/j.wasman.2026.115762,Results substitution,AT10,"""kg P-Äq."""
+10.1016/j.wasman.2026.115762,Results substitution,AT11,"""kg N-Äq"""
+10.1016/j.wasman.2026.115762,Results substitution,AT12,"""mol N-Äq."""
+10.1016/j.wasman.2026.115762,Results substitution,AT13,"""CTUh"""
+10.1016/j.wasman.2026.115762,Results substitution,AT14,"""CTUh"""
+10.1016/j.wasman.2026.115762,Results substitution,AT15,"""kBq U235-Äq."""
+10.1016/j.wasman.2026.115762,Results substitution,AT16,"""Dimensionslos"""
+10.1016/j.wasman.2026.115762,Results substitution,AT17,"""kg Sb-Äq."""
+10.1016/j.wasman.2026.115762,Results substitution,AT18,"""kg CFC-11-Äq."""
+10.1016/j.wasman.2026.115762,Results substitution,AT19,"""Krankheitsinzidenz"""
+10.1016/j.wasman.2026.115762,Results substitution,AT20,"""kg NMVOC-Äq."""
+10.1016/j.wasman.2026.115762,Results substitution,AT21,"""m3 Welt Äq. entzogen"""
+10.1016/j.wasman.2026.115762,Results substitution,AT6,"""mol H+-Äq."""
+10.1016/j.wasman.2026.115762,Results substitution,AT7,"""kg CO2-Äq."""
+10.1016/j.wasman.2026.115762,Results substitution,AT8,"""CTUe"""
+10.1016/j.wasman.2026.115762,Results substitution,AT9,"""MJ"""
+10.1016/j.wasman.2026.115762,Results substitution,AU10,-0.036856377161657
+10.1016/j.wasman.2026.115762,Results substitution,AU11,-0.038341144484383
+10.1016/j.wasman.2026.115762,Results substitution,AU12,-0.572565186472455
+10.1016/j.wasman.2026.115762,Results substitution,AU13,-1.05612606923837e-07
+10.1016/j.wasman.2026.115762,Results substitution,AU14,-9.71994790228913e-06
+10.1016/j.wasman.2026.115762,Results substitution,AU15,-0.409482922772801
+10.1016/j.wasman.2026.115762,Results substitution,AU16,-252.453444246559
+10.1016/j.wasman.2026.115762,Results substitution,AU17,-0.0165236004708114
+10.1016/j.wasman.2026.115762,Results substitution,AU18,1.13910410503997e-06
+10.1016/j.wasman.2026.115762,Results substitution,AU19,-2.32795245667454e-06
+10.1016/j.wasman.2026.115762,Results substitution,AU20,-0.126087824636751
+10.1016/j.wasman.2026.115762,Results substitution,AU21,-16.0228318178325
+10.1016/j.wasman.2026.115762,Results substitution,AU6,-0.697692636277873
+10.1016/j.wasman.2026.115762,Results substitution,AU7,-74.3776801387105
+10.1016/j.wasman.2026.115762,Results substitution,AU8,-1001.65201997166
+10.1016/j.wasman.2026.115762,Results substitution,AU9,348.363860363353
+10.1016/j.wasman.2026.115762,Results substitution,AV10,-0.0838770026836168
+10.1016/j.wasman.2026.115762,Results substitution,AV11,-0.072884011648231
+10.1016/j.wasman.2026.115762,Results substitution,AV12,-0.983482806859677
+10.1016/j.wasman.2026.115762,Results substitution,AV13,-1.22935312200045e-07
+10.1016/j.wasman.2026.115762,Results substitution,AV14,-1.06569473661562e-05
+10.1016/j.wasman.2026.115762,Results substitution,AV15,-3.60958655742106
+10.1016/j.wasman.2026.115762,Results substitution,AV16,-340.343040838346
+10.1016/j.wasman.2026.115762,Results substitution,AV17,-0.0310344115665387
+10.1016/j.wasman.2026.115762,Results substitution,AV18,8.59541601949897e-07
+10.1016/j.wasman.2026.115762,Results substitution,AV19,-3.57206209894071e-06
+10.1016/j.wasman.2026.115762,Results substitution,AV20,-0.226524916607392
+10.1016/j.wasman.2026.115762,Results substitution,AV21,-23.0289015609579
+10.1016/j.wasman.2026.115762,Results substitution,AV6,-0.852151725464282
+10.1016/j.wasman.2026.115762,Results substitution,AV7,-92.7809952236231
+10.1016/j.wasman.2026.115762,Results substitution,AV8,-2002.79251868895
+10.1016/j.wasman.2026.115762,Results substitution,AV9,78.4907725551143
+10.1016/j.wasman.2026.115762,Results substitution,AW10,0.00799465039995559
+10.1016/j.wasman.2026.115762,Results substitution,AW11,0.0126358174028961
+10.1016/j.wasman.2026.115762,Results substitution,AW12,0.107407924382893
+10.1016/j.wasman.2026.115762,Results substitution,AW13,-8.51674121311285e-10
+10.1016/j.wasman.2026.115762,Results substitution,AW14,-1.06196224123346e-06
+10.1016/j.wasman.2026.115762,Results substitution,AW15,2.05130461574225
+10.1016/j.wasman.2026.115762,Results substitution,AW16,4.32439849134715
+10.1016/j.wasman.2026.115762,Results substitution,AW17,-0.00202138067082127
+10.1016/j.wasman.2026.115762,Results substitution,AW18,1.60746824432079e-06
+10.1016/j.wasman.2026.115762,Results substitution,AW19,1.50946356499166e-07
+10.1016/j.wasman.2026.115762,Results substitution,AW20,0.0640537127077106
+10.1016/j.wasman.2026.115762,Results substitution,AW21,0.432026460539517
+10.1016/j.wasman.2026.115762,Results substitution,AW6,-0.034382831097189
+10.1016/j.wasman.2026.115762,Results substitution,AW7,-50.2127386187443
+10.1016/j.wasman.2026.115762,Results substitution,AW8,-63.7590034751328
+10.1016/j.wasman.2026.115762,Results substitution,AW9,643.196379114316
+10.1016/j.wasman.2026.115762,Results substitution,G24,-92.7809952236231
+10.1016/j.wasman.2026.115762,Results substitution,G44,-50.2127386187443
+10.1016/j.wasman.2026.115762,Results substitution,G6,-74.3776801387105
+10.1016/j.wasman.2026.115762,Results substitution,H17,-96.901
+10.1016/j.wasman.2026.115762,Results substitution,H35,-96.901
+10.1016/j.wasman.2026.115762,Results substitution,H55,-93.4177
+10.1016/j.wasman.2026.115762,Results substitution,O10,-8.21107242844925
+10.1016/j.wasman.2026.115762,Results substitution,O11,2.46651315179818
+10.1016/j.wasman.2026.115762,Results substitution,O12,-95.3593496214017
+10.1016/j.wasman.2026.115762,Results substitution,O13,18.0109822524959
+10.1016/j.wasman.2026.115762,Results substitution,O16,7.77169919295824
+10.1016/j.wasman.2026.115762,Results substitution,O17,-7.26752511456069
+10.1016/j.wasman.2026.115762,Results substitution,O18,-92.8928364696038
+10.1016/j.wasman.2026.115762,Results substitution,O6,4.57290110750607
+10.1016/j.wasman.2026.115762,Results substitution,O7,2.05282054981289
+10.1016/j.wasman.2026.115762,Results substitution,O8,1.14597753563927
+10.1016/j.wasman.2026.115762,Results substitution,O9,0.94354731388845
+10.1016/j.wasman.2026.115762,Results substitution,P10,-14.6438945428895
+10.1016/j.wasman.2026.115762,Results substitution,P11,1.72442201047957
+10.1016/j.wasman.2026.115762,Results substitution,P12,-99.6907350037622
+10.1016/j.wasman.2026.115762,Results substitution,P13,13.8748262577974
+10.1016/j.wasman.2026.115762,Results substitution,P16,5.27822962976778
+10.1016/j.wasman.2026.115762,Results substitution,P17,-13.9677381179063
+10.1016/j.wasman.2026.115762,Results substitution,P18,-97.9663129932828
+10.1016/j.wasman.2026.115762,Results substitution,P6,3.46145152660953
+10.1016/j.wasman.2026.115762,Results substitution,P7,1.2473013602
+10.1016/j.wasman.2026.115762,Results substitution,P8,0.569476742957538
+10.1016/j.wasman.2026.115762,Results substitution,P9,0.676156424983117
+10.1016/j.wasman.2026.115762,Results substitution,Q10,-0.943562692702909
+10.1016/j.wasman.2026.115762,Results substitution,Q11,2.97963044705713
+10.1016/j.wasman.2026.115762,Results substitution,Q12,-83.9889104378814
+10.1016/j.wasman.2026.115762,Results substitution,Q13,20.8473232271428
+10.1016/j.wasman.2026.115762,Results substitution,Q16,9.85136058460894
+10.1016/j.wasman.2026.115762,Results substitution,Q17,0.0978575603277353
+10.1016/j.wasman.2026.115762,Results substitution,Q18,-81.0092799908239
+10.1016/j.wasman.2026.115762,Results substitution,Q6,5.22275504259426
+10.1016/j.wasman.2026.115762,Results substitution,Q7,2.80665024834239
+10.1016/j.wasman.2026.115762,Results substitution,Q8,1.82195529367231
+10.1016/j.wasman.2026.115762,Results substitution,Q9,1.04142025303063

@@ -1,0 +1,428 @@
+{
+  "Table 1": [
+    [
+      "Dataset",
+      "Analytical unit",
+      "Linked evidence",
+      "Main calculation",
+      "Unresolved evidence"
+    ],
+    [
+      "German recovery [7]",
+      "1 Mg valorized IBA; three source scenarios",
+      "Stream masses, carbonate balance and climate contributions",
+      "Direct fraction credit and climate margin",
+      "Observed fraction acceptance and changed route inventory"
+    ],
+    [
+      "Italian fractions [9]",
+      "1 Mg isolated dry fraction; 25 plant–fraction records",
+      "XRF, XRD and L/S 10 eluates",
+      "Carbonate corrected calcium substitution ceiling",
+      "Exact fraction yields, treated counterparts and clinker equivalence"
+    ],
+    [
+      "Spanish fractions [10]",
+      "Five fractions from one composite; six mortar formulations",
+      "Approximate feed shares, strength and crushed mortar release",
+      "Joint strength–Mo benchmark candidate yield",
+      "Complete SCM qualification and conditioning inventory"
+    ],
+    [
+      "Swedish roads [8]",
+      "Source road service; normalised per Mg mineral IBA",
+      "Project climate outputs and material quantities",
+      "Illustrative conditioning comparison",
+      "Observed eligibility and incremental treatment inventory"
+    ]
+  ],
+  "Table 2": [
+    [
+      "Quantity",
+      "Laboratory based 2023",
+      "High ambition 2030",
+      "Worst case 2030"
+    ],
+    [
+      "Fine / medium stream mass, kg per source Mg",
+      "237.36 / 170.57",
+      "237.36 / 170.57",
+      "237.36 / 170.57"
+    ],
+    [
+      "Fine share of clinker directed mass, %",
+      "58.19",
+      "58.19",
+      "58.19"
+    ],
+    [
+      "Fine share of direct calcination credit, %",
+      "70.49",
+      "70.49",
+      "69.72"
+    ],
+    [
+      "Fine / medium direct credit, kg CO₂-eq per source Mg",
+      "68.31 / 28.59",
+      "68.31 / 28.59",
+      "65.13 / 28.29"
+    ],
+    [
+      "Fine credit density, kg CO₂-eq/Mg stream",
+      "287.79",
+      "287.79",
+      "274.38"
+    ],
+    [
+      "Medium credit density, kg CO₂-eq/Mg stream",
+      "167.62",
+      "167.62",
+      "165.86"
+    ],
+    [
+      "Published net climate impact, kg CO₂-eq per source Mg",
+      "−74.38",
+      "−92.78",
+      "−50.21"
+    ],
+    [
+      "Retained remainder R, kg CO₂-eq per source Mg",
+      "22.52",
+      "4.12",
+      "43.20"
+    ],
+    [
+      "Climate margin M with both direct credits",
+      "74.38",
+      "92.78",
+      "50.21"
+    ],
+    [
+      "Climate margin M with fine direct credit only",
+      "45.79",
+      "64.19",
+      "21.92"
+    ],
+    [
+      "Climate margin M with medium direct credit only",
+      "6.07",
+      "24.47",
+      "−14.91"
+    ]
+  ],
+  "Table 3": [
+    [
+      "Plant",
+      "Highest oxide only ceiling, mm",
+      "Highest corrected ceiling, mm",
+      "Corrected ceiling gain over oxide only choice, kg CO₂/Mg fraction",
+      "Priority change stable to display rounding?",
+      "Eluate chloride range, mg/L"
+    ],
+    [
+      "PR",
+      "0.063–0.2",
+      "0.063–0.2",
+      "0.00",
+      "No change",
+      "319.1–702.9"
+    ],
+    [
+      "PC",
+      "0.2–0.3",
+      "0.063–0.2",
+      "0.58",
+      "No",
+      "428.1–993.2"
+    ],
+    [
+      "TO",
+      "0.2–0.3",
+      "0.5–1",
+      "4.46",
+      "Yes",
+      "435.8–1165.5"
+    ],
+    [
+      "FE",
+      "0.063–0.2",
+      "0.063–0.2",
+      "0.00",
+      "No change",
+      "528.0–1063.6"
+    ],
+    [
+      "FC",
+      "0.063–0.2",
+      "0.2–0.3",
+      "17.67",
+      "Yes",
+      "607.5–1042.9"
+    ]
+  ],
+  "Table 4": [
+    [
+      "Fraction, mm",
+      "Approximate feed share",
+      "Reported 28 day strength activity",
+      "Mortar Mo, mg/kg",
+      "Mortar Cl / SO₄, mg/kg",
+      "Joint strength–Mo screen"
+    ],
+    [
+      "0–2",
+      "32%",
+      "About 70%",
+      "0.46",
+      "123 / 13",
+      "Fails strength"
+    ],
+    [
+      "2–4",
+      "18%",
+      ">75%",
+      "0.54",
+      "103 / 42",
+      "Fails Mo comparator"
+    ],
+    [
+      "4–8",
+      "15%",
+      "99%",
+      "0.70",
+      "79 / 56",
+      "Fails Mo comparator"
+    ],
+    [
+      "8–16",
+      "21%",
+      ">75%",
+      "0.65",
+      "77 / 38",
+      "Fails Mo comparator"
+    ],
+    [
+      ">16",
+      "14%",
+      "About 70%",
+      "0.45",
+      "71 / 33",
+      "Fails strength"
+    ],
+    [
+      "Whole mixture",
+      "Separate formulation",
+      "87%",
+      "0.63",
+      "100 / 36",
+      "Fails Mo comparator"
+    ]
+  ],
+  "Table S1": [
+    [
+      "Information supplied",
+      "Accepted fines, kg",
+      "Signed Δ, kg CO₂-eq/Mg",
+      "Climate envelope, kg CO₂-eq/Mg",
+      "Decision within supplied bounds"
+    ],
+    [
+      "Bulk accepted mass only",
+      "33.395–203.965",
+      "0",
+      "−12.76 to +5.75",
+      "Unresolved"
+    ],
+    [
+      "Hypothetical fraction record and bounded inventory",
+      "110–120",
+      "0–2",
+      "−3.65 to −0.56",
+      "Favourable throughout"
+    ],
+    [
+      "Hypothetical fraction record and bounded inventory",
+      "80–90",
+      "0–2",
+      "−0.39 to +2.69",
+      "Unresolved"
+    ],
+    [
+      "Hypothetical fraction record and bounded inventory",
+      "60–70",
+      "0–2",
+      "+1.78 to +4.86",
+      "Unfavourable throughout"
+    ]
+  ],
+  "Table S2": [
+    [
+      "Perturbation",
+      "Break-even change",
+      "Interpretation"
+    ],
+    [
+      "Cost increase alone",
+      "20.2706%",
+      "Revenue and reference fixed"
+    ],
+    [
+      "Revenue reduction alone",
+      "63.9600%",
+      "Cost and reference fixed"
+    ],
+    [
+      "Reference cost magnitude reduction alone",
+      "22.8845%",
+      "Source cost and revenue fixed"
+    ],
+    [
+      "Equal adverse shift in all three",
+      "9.2026%",
+      "Cost increases; revenue and reference magnitude decrease"
+    ]
+  ],
+  "Table S3": [
+    [
+      "Source condition",
+      "EC change",
+      "Chloride change",
+      "Sulfate change",
+      "Common-element change",
+      "Interpretation"
+    ],
+    [
+      "Schnabel column stratum, LEG-011",
+      "−31.8%",
+      "−37.7%",
+      "−72.6%",
+      "Cr +31.3%",
+      "One German RDF-grate material"
+    ],
+    [
+      "Vateva–Laner 0.063–1 mm, LEG-016",
+      "−43.0%",
+      "−16.0%",
+      "−34.1%",
+      "Cu +152.8%",
+      "One Kassel composite"
+    ],
+    [
+      "Vateva–Laner 2–4 mm, LEG-019",
+      "−15.7%",
+      "−13.9%",
+      "−24.2%",
+      "Cr +1,820.0%; Cu +73.2%",
+      "Low Cr baseline; no legal exceedance claim"
+    ]
+  ],
+  "Table S4": [
+    [
+      "Material lineage / country",
+      "Master conditions",
+      "Evaluable conditions",
+      "Cr/Cu contrasts, n/N (%)",
+      "Broader-panel contrasts, n/N (%)"
+    ],
+    [
+      "Abis Plant A / Germany",
+      "2",
+      "2",
+      "0/2 (0.0)",
+      "2/2 (100.0)"
+    ],
+    [
+      "Abis Plant B / Sweden",
+      "2",
+      "2",
+      "0/2 (0.0)",
+      "2/2 (100.0)"
+    ],
+    [
+      "Destefanis Turin / Italy",
+      "3",
+      "0",
+      "Not evaluable",
+      "Not evaluable"
+    ],
+    [
+      "Mezni ultrafines / France",
+      "1",
+      "1",
+      "0/1 (0.0)",
+      "0/1 (0.0)"
+    ],
+    [
+      "Schnabel RDF-grate fines / Germany",
+      "3",
+      "3",
+      "1/3 (33.3)",
+      "2/3 (66.7)"
+    ],
+    [
+      "Simon–Scholz composite / Germany",
+      "4",
+      "0",
+      "Not evaluable",
+      "Not evaluable"
+    ],
+    [
+      "Audoye Trifyl / France",
+      "32",
+      "30",
+      "6/30 (20.0)",
+      "20/30 (66.7)"
+    ],
+    [
+      "Vateva–Laner Kassel / Germany",
+      "9",
+      "9",
+      "2/9 (22.2)",
+      "2/9 (22.2)"
+    ]
+  ],
+  "Table S5": [
+    [
+      "Project / source transport setting",
+      "Source benefit B, kg CO₂-eq/Mg MIBA",
+      "Whole-batch q break-even, Δ = 0",
+      "Benefit per eligible Mg if only eligible material is conditioned, B − p"
+    ],
+    [
+      "Project 1, HVO 10",
+      "30.66",
+      "0.326",
+      "20.66"
+    ],
+    [
+      "Project 2, HVO 10",
+      "12.29",
+      "0.813",
+      "2.29"
+    ],
+    [
+      "Project 1, HVO 30",
+      "26.74",
+      "0.374",
+      "16.74"
+    ],
+    [
+      "Project 2, HVO 30",
+      "10.58",
+      "0.946",
+      "0.58"
+    ],
+    [
+      "Project 1, HVO 100",
+      "13.00",
+      "0.769",
+      "3.00"
+    ],
+    [
+      "Project 2, HVO 100",
+      "4.53",
+      "2.205: no feasible q ≤ 1",
+      "−5.47"
+    ]
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "source_doi": "10.1016/j.wasman.2026.115549",
+  "table_B1": [
+    [
+      "Parameter",
+      "Value",
+      "Reference",
+      "Remark"
+    ],
+    [
+      "Total width, single-lane, m",
+      "10.90",
+      "Mcgarvey et al., 2017",
+      "Swedish road design standard"
+    ],
+    [
+      "Total width, double-lane, m",
+      "20.00",
+      "Mcgarvey et al., 2017",
+      "Swedish road design standard"
+    ],
+    [
+      "Total width, bike-lane, m",
+      "4.00",
+      "Case 1 ",
+      ""
+    ],
+    [
+      "Height, subbase layer, m",
+      "0.55",
+      "Van Praagh et al., 2018",
+      "Similar to Case 1 and Case 2"
+    ],
+    [
+      "Height, MIBA subbase, m",
+      "0.35",
+      "Van Praagh et al., 2018",
+      "Similar to Case 1 and Case 2"
+    ],
+    [
+      "Density, aggregate, ton/m³",
+      "2.30",
+      "Van Praagh et al., 2018",
+      "maximum dry bulk density"
+    ],
+    [
+      "Density MIBA, ton/m³",
+      "1.70",
+      "Van Praagh et al., 2018",
+      "maximum dry bulk density"
+    ],
+    [
+      "BAU road, mass subbase, ton/km ",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Aggregate, single-lane",
+      "13789",
+      "",
+      "Calculated"
+    ],
+    [
+      "Aggregate, double-lane",
+      "25300",
+      "",
+      "Calculated"
+    ],
+    [
+      "Aggregate, bike-lane",
+      "5060",
+      "",
+      "Calculated"
+    ],
+    [
+      "MIBA road, mass subbase, ton/km",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Single-lane",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Aggregate",
+      "5014",
+      "",
+      "Calculated"
+    ],
+    [
+      "MIBA",
+      "6638",
+      "",
+      "Calculated"
+    ],
+    [
+      "Double-lane",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Aggregate",
+      "9200",
+      "",
+      "Calculated"
+    ],
+    [
+      "MIBA",
+      "12180",
+      "",
+      "Calculated"
+    ],
+    [
+      "Bike-lane",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Aggregate",
+      "1840",
+      "",
+      "Calculated"
+    ],
+    [
+      "MIBA",
+      "2436",
+      "",
+      "Calculated"
+    ]
+  ],
+  "table_C1": [
+    [
+      " ",
+      "Case 1\n",
+      "Case 1\n",
+      "Case 1\n",
+      "Case 2\n",
+      "Case 2\n",
+      "Case 2\n"
+    ],
+    [
+      " ",
+      "single",
+      "double",
+      "bike",
+      "single",
+      "double",
+      "bike"
+    ],
+    [
+      "F1-Type of aggregate material ",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "aggregate, case",
+      "-203.5",
+      "-373.5",
+      "-74.7",
+      "-81.6",
+      "-149.8",
+      "-30.0"
+    ],
+    [
+      "low-impact\naggregate",
+      "-199.5",
+      "-366.0",
+      "-73.2",
+      "-78.8",
+      "-144.7",
+      "-28.9"
+    ],
+    [
+      "high-impact\naggregate",
+      "-218.5",
+      "-400.9",
+      "-80.2",
+      "-97.9",
+      "-179.6",
+      "-35.9"
+    ],
+    [
+      "F2-Extent of MIBA processing ",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "zero burden",
+      "-203.5",
+      "-373.5",
+      "-74.7",
+      "-81.6",
+      "-149.8",
+      "-30.0"
+    ],
+    [
+      "low-intensity processing",
+      "-196.9",
+      "-361.3",
+      "-72.3",
+      "-75.0",
+      "-137.6",
+      "-27.5"
+    ],
+    [
+      "high-intensity processing",
+      "-137.2",
+      "-251.7",
+      "-50.3",
+      "-15.2",
+      "-28.0",
+      "-5.6"
+    ],
+    [
+      "F3-Type of MIBA handling ",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "landfill cover with substitution",
+      "-203.5",
+      "-373.5",
+      "-74.7",
+      "-81.6",
+      "-149.8",
+      "-30.0"
+    ],
+    [
+      "low-impact landfilling",
+      "-286.6",
+      "-525.9",
+      "-105.2",
+      "-160.7",
+      "-294.9",
+      "-59.0"
+    ],
+    [
+      "high-impact landfilling",
+      "-306.6",
+      "-562.5",
+      "-112.5",
+      "-180.6",
+      "-331.5",
+      "-66.3"
+    ],
+    [
+      "F4-Extent of biofuel share in transport ",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "HVO 10",
+      "-203.5",
+      "-373.5",
+      "-74.7",
+      "-81.6",
+      "-149.8",
+      "-30.0"
+    ],
+    [
+      "HVO 30",
+      "-177.5",
+      "-325.7",
+      "-65.1",
+      "-70.2",
+      "-128.8",
+      "-25.8"
+    ],
+    [
+      "HVO 100",
+      "-86.3",
+      "-158.3",
+      "-31.7",
+      "-30.1",
+      "-55.2",
+      "-11.0"
+    ]
+  ]
+}

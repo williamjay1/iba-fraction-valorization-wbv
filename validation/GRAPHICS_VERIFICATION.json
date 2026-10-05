@@ -1,0 +1,274 @@
+{
+  "status": "PASS",
+  "published_pngs_match_fresh_run": [
+    {
+      "name": "figure1_mass_credit_margin.png",
+      "byte_identical_to_reviewed_v113": true
+    },
+    {
+      "name": "figure2_italian_carbonate_priority.png",
+      "byte_identical_to_reviewed_v113": true
+    },
+    {
+      "name": "figure3_spanish_joint_screen.png",
+      "byte_identical_to_reviewed_v113": true
+    },
+    {
+      "name": "figure4_swedish_processing_example.png",
+      "byte_identical_to_reviewed_v113": true
+    },
+    {
+      "name": "graphical_abstract.png",
+      "byte_identical_to_reviewed_v113": true
+    }
+  ],
+  "verification": {
+    "source_values_from_existing_outputs": true,
+    "models_changed": false,
+    "invented_uncertainty": false,
+    "all_deterministic_collision_tests_passed": true,
+    "detector_positive_controls": [
+      {
+        "control": "text_text",
+        "known_bad_layout_detected": true
+      },
+      {
+        "control": "line_crossing",
+        "known_bad_layout_detected": true
+      },
+      {
+        "control": "filled_region",
+        "known_bad_layout_detected": true
+      },
+      {
+        "control": "marker_crossing",
+        "known_bad_layout_detected": true
+      }
+    ],
+    "missing_glyph_warnings_promoted_to_errors": true,
+    "all_vectors_have_no_embedded_images": true,
+    "visual_inspection": "Published PNGs are byte-identical to the previously visually inspected v113 assets; the fresh generator also passed all automated checks."
+  },
+  "figure_geometry": [
+    {
+      "figure": "figure1_mass_credit_margin",
+      "width_cm": 18.0,
+      "height_cm": 11.100000000000001,
+      "raster_dpi": 1200,
+      "raster_pixel_dimensions": [
+        8503,
+        5244
+      ],
+      "png_dpi_metadata": [
+        1199.9976,
+        1199.9976
+      ],
+      "preview_dpi": 300,
+      "minimum_text_size_pt": 9.2,
+      "layout_audit": "PASS",
+      "vector_audit": {
+        "pdf_image_objects": 0,
+        "pdf_fonts": [
+          {
+            "resource": "/F1",
+            "base_font": "/ESJWXD+ArialMT",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          },
+          {
+            "resource": "/F3",
+            "base_font": "/BHPUCF+Arial-BoldMT",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          },
+          {
+            "resource": "/F2",
+            "base_font": "/CSIITC+DejaVuSans",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          }
+        ],
+        "svg_image_elements": 0,
+        "svg_text_elements": 45,
+        "svg_path_elements": 36,
+        "status": "PASS: vectors retained; embedded non-Type3 fonts; editable SVG text"
+      },
+      "description": "Paired fine-stream shares plus three deterministic accepted-mass margin facets."
+    },
+    {
+      "figure": "figure2_italian_carbonate_priority",
+      "width_cm": 18.0,
+      "height_cm": 11.6,
+      "raster_dpi": 1200,
+      "raster_pixel_dimensions": [
+        8503,
+        5480
+      ],
+      "png_dpi_metadata": [
+        1199.9976,
+        1199.9976
+      ],
+      "preview_dpi": 300,
+      "minimum_text_size_pt": 9.2,
+      "layout_audit": "PASS",
+      "vector_audit": {
+        "pdf_image_objects": 0,
+        "pdf_fonts": [
+          {
+            "resource": "/F1",
+            "base_font": "/CXXETF+ArialMT",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          },
+          {
+            "resource": "/F3",
+            "base_font": "/HABRKQ+Arial-BoldMT",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          },
+          {
+            "resource": "/F2",
+            "base_font": "/CSIITC+DejaVuSans",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          }
+        ],
+        "svg_image_elements": 0,
+        "svg_text_elements": 78,
+        "svg_path_elements": 34,
+        "status": "PASS: vectors retained; embedded non-Type3 fonts; editable SVG text"
+      },
+      "description": "Five plant panels, all 25 records; outlined maxima and a separate legend/rounding note."
+    },
+    {
+      "figure": "figure3_spanish_joint_screen",
+      "width_cm": 18.0,
+      "height_cm": 11.3,
+      "raster_dpi": 1200,
+      "raster_pixel_dimensions": [
+        8503,
+        5338
+      ],
+      "png_dpi_metadata": [
+        1199.9976,
+        1199.9976
+      ],
+      "preview_dpi": 300,
+      "minimum_text_size_pt": 9.2,
+      "layout_audit": "PASS",
+      "vector_audit": {
+        "pdf_image_objects": 0,
+        "pdf_fonts": [
+          {
+            "resource": "/F1",
+            "base_font": "/DZQVDL+ArialMT",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          },
+          {
+            "resource": "/F2",
+            "base_font": "/CIYUYS+Arial-BoldMT",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          }
+        ],
+        "svg_image_elements": 0,
+        "svg_text_elements": 36,
+        "svg_path_elements": 10,
+        "status": "PASS: vectors retained; embedded non-Type3 fonts; editable SVG text"
+      },
+      "description": "Independent candidate shares and a sparse point/cross benchmark matrix; no invented material flow."
+    },
+    {
+      "figure": "figure4_swedish_processing_example",
+      "width_cm": 9.0,
+      "height_cm": 6.799999999999999,
+      "raster_dpi": 1200,
+      "raster_pixel_dimensions": [
+        4251,
+        3212
+      ],
+      "png_dpi_metadata": [
+        1199.9976,
+        1199.9976
+      ],
+      "preview_dpi": 300,
+      "minimum_text_size_pt": 9.2,
+      "layout_audit": "PASS",
+      "vector_audit": {
+        "pdf_image_objects": 0,
+        "pdf_fonts": [
+          {
+            "resource": "/F1",
+            "base_font": "/CWGDAR+ArialMT",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          },
+          {
+            "resource": "/F2",
+            "base_font": "/CSIITC+DejaVuSans",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          }
+        ],
+        "svg_image_elements": 0,
+        "svg_text_elements": 12,
+        "svg_path_elements": 9,
+        "status": "PASS: vectors retained; embedded non-Type3 fonts; editable SVG text"
+      },
+      "description": "One explicitly hypothetical Swedish conditioning scenario, with sign reversal at two allocation extents."
+    },
+    {
+      "figure": "graphical_abstract",
+      "width_cm": 7.999999999999999,
+      "height_cm": 3.0,
+      "raster_dpi": 1200,
+      "raster_pixel_dimensions": [
+        3779,
+        1417
+      ],
+      "png_dpi_metadata": [
+        1199.9976,
+        1199.9976
+      ],
+      "preview_dpi": 300,
+      "minimum_text_size_pt": 6.15,
+      "layout_audit": "PASS",
+      "vector_audit": {
+        "pdf_image_objects": 0,
+        "pdf_fonts": [
+          {
+            "resource": "/F2",
+            "base_font": "/DMSPIB+ArialMT",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          },
+          {
+            "resource": "/F1",
+            "base_font": "/DTWQQB+Arial-BoldMT",
+            "subtype": "/Type0",
+            "descendant_subtype": "/CIDFontType2",
+            "font_embedded": true
+          }
+        ],
+        "svg_image_elements": 0,
+        "svg_text_elements": 13,
+        "svg_path_elements": 3,
+        "status": "PASS: vectors retained; embedded non-Type3 fonts; editable SVG text"
+      },
+      "description": "Exact 8 x 3 cm independent three-country evidence summary, without transfer arrows."
+    }
+  ],
+  "style_description": "Original SciencePlots science + no-latex + nature; explicit task/accessibility overrides. Nature-inspired visual presentation for a WBV submission, not a Nature submission claim."
+}
